@@ -1,0 +1,13 @@
+venv
+output*
+datasets
+*.pyc
+dataset
+*.npz
+.mypy*
+.vscode
+__pycache__
+.DS_Store
+bert-it-1
+models
+image_plots
